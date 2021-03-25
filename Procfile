@@ -1,0 +1,1 @@
+web : java -jar -Dspring.profiles.active=pnd build/libs/Platzi-Marke-1.0.jar
